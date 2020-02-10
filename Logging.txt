@@ -1,0 +1,51 @@
+[2020-02-10 21:01:22] [INFO   ] The first argument is NULL 
+[2020-02-10 21:01:22] [INFO   ] The second argument is NULL 
+[2020-02-10 21:01:22] [INFO   ] Was set the arguments 
+[2020-02-10 21:01:22] [INFO   ] The first method was started! 
+[2020-02-10 21:01:22] [WARNING] Returned value is FALSE 
+[2020-02-10 21:01:22] [INFO   ] The first method was done! 
+[2020-02-10 21:01:22] [INFO   ] The second method was started! 
+[2020-02-10 21:01:22] [SEVERE ] Returned value is NULL 
+[2020-02-10 21:01:22] [INFO   ] The second method was done! 
+[2020-02-10 21:01:22] [INFO   ] The third method was started! 
+[2020-02-10 21:01:22] [SEVERE ] Returned value is NULL 
+[2020-02-10 21:01:22] [INFO   ] The third method was done! 
+[2020-02-10 21:01:22] [INFO   ] The forth method was started! 
+[2020-02-10 21:01:22] [SEVERE ] Returned value is NULL 
+[2020-02-10 21:01:22] [INFO   ] The forth method was done! 
+[2020-02-10 21:01:22] [INFO   ] The fifth method was started! 
+[2020-02-10 21:01:22] [SEVERE ] Returned value is NULL 
+[2020-02-10 21:01:22] [INFO   ] The fifth method was done! 
+[2020-02-10 21:01:22] [INFO   ] The sixth method was started! 
+[2020-02-10 21:01:22] [SEVERE ] Returned value is NULL 
+[2020-02-10 21:01:22] [INFO   ] The sixth method was done! 
+[2020-02-10 21:01:22] [INFO   ] The seventh method was started! 
+[2020-02-10 21:01:22] [WARNING] Returned value is FALSE 
+[2020-02-10 21:01:22] [INFO   ] The seventh method was done! 
+[2020-02-10 21:01:22] [INFO   ] The eighth method was started! 
+[2020-02-10 21:01:22] [SEVERE ] Returned value is NULL 
+[2020-02-10 21:01:22] [INFO   ] The eighth method was done! 
+[2020-02-10 21:01:22] [INFO   ] The nineth method was started! 
+[2020-02-10 21:01:22] [SEVERE ] Returned value is NULL 
+[2020-02-10 21:01:22] [INFO   ] The nineth method was done! 
+[2020-02-10 21:01:22] [INFO   ] The tenth method was started! 
+[2020-02-10 21:01:22] [INFO   ] Returned value is TRUE 
+[2020-02-10 21:01:22] [INFO   ] The tenth method was done! 
+[2020-02-10 21:01:22] [INFO   ] The eleventh method was started! 
+[2020-02-10 21:01:22] [SEVERE ] Returned value is NULL 
+[2020-02-10 21:01:22] [INFO   ] The eleventh method was done! 
+[2020-02-10 21:01:22] [INFO   ] The twelveth method was started! 
+[2020-02-10 21:01:22] [SEVERE ] Returned value is NULL 
+[2020-02-10 21:01:22] [INFO   ] The twelveth method was done! 
+[2020-02-10 21:01:22] [INFO   ] The thirteenth method was started! 
+[2020-02-10 21:01:22] [SEVERE ] Returned value is NULL 
+[2020-02-10 21:01:22] [INFO   ] The thirteenth method was done! 
+[2020-02-10 21:01:22] [INFO   ] The fourteenth method was started! 
+[2020-02-10 21:01:22] [SEVERE ] Returned value is NULL 
+[2020-02-10 21:01:22] [INFO   ] The fourteenth method was done! 
+[2020-02-10 21:01:22] [INFO   ] The fifteenth method was started! 
+[2020-02-10 21:01:22] [SEVERE ] Returned value is NULL 
+[2020-02-10 21:01:22] [INFO   ] The fifteenth method was done! 
+[2020-02-10 21:01:22] [INFO   ] The sixteenth method was started! 
+[2020-02-10 21:01:22] [INFO   ] Returned value is TRUE 
+[2020-02-10 21:01:22] [INFO   ] The sixteenth method was done! 
